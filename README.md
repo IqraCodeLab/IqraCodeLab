@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm <i><b>IQra Khan</b></i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,FD853A&height=200&section=header&text=IQra%20Khan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FD853A&center=true&vCenter=true&width=500&lines=FRONTEND+DEVELOPER;LARAVEL+DEVELOPER;FULL+STACK+DEVELOPER;UI+%26+UX+DESIGNER)
 
@@ -9,9 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/iqra07736-sys?label=Follow&style=social)](https://github.com/IqraCodeLab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-khan-5581b0386/)
 
 </div>
-
----
-
+-----
 
  ## 👩‍💻 About Me
 
