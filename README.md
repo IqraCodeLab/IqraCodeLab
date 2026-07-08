@@ -33,7 +33,10 @@ Passionate about web development and creating modern, responsive, and user-frien
 | **Database & Tools** | ![MySQL](https://img.shields.io/badge/mysql-%23000f?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white) |
 | **UI / UX & Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
-
+### 📈 GitHub Status
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IqraCodeLab&theme=radical" alt="IqraCodeLab Stats" width="100%" />
+</p>
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-khan-5581b0386/)
