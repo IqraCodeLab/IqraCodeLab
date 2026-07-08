@@ -35,9 +35,10 @@ Passionate about web development and creating modern, responsive, and user-frien
 
 ---
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IqraCodeLab&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IqraCodeLab&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=IqraCodeLab&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="50%" /> </p>
----
+### 📈 GitHub Status
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susheeltalreja&theme=radical" alt="GitHub Stats" width="100%" />
+</p>
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-khan-5581b0386/)
