@@ -34,8 +34,8 @@ Passionate about web development and creating modern, responsive, and user-frien
 | **UI / UX & Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
 ### 📈 GitHub Stats
-![IqraCodeLab's stats](https://github-readme-stats.vercel.app/api?username=IqraCodeLab&show_icons=true&theme=radical)
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IqraCodeLab&show_icons=true&theme=radical)
+
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-khan-5581b0386/)
