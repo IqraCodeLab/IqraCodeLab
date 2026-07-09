@@ -43,7 +43,7 @@ Passionate about web development and creating modern, responsive, and user-frien
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IqraCodeLab)
 ---
           
-   <p align="center"> 🌱 "Every Line of Code is a Step Toward Becoming a Better Developer."
+   <p align="center"> 🌱 Every Line of Code is a Step Toward Becoming a Better Developer.
 </p>
 
 ---
